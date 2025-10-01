@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>Doomsday - How to Play?</title>
+    <title>DoomsDay - How to Play?</title>
   </head>
   <body>
     <h1>How to Play</h1>
