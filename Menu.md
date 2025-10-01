@@ -1,6 +1,6 @@
 <html>
   <head>
-    <title>DoomsDay</title>
+    <title>DoomsDay - Menu</title>
   </head>
   <body>
     <h1>DOOMSDAY</h1>
