@@ -9,5 +9,8 @@
       <a href="OriginalMod.md">Original (DoomsDay)</a>
     </h1>
     <h5>(Winter Mod will arrive in Update 2)</h5>
+    <h3>
+      <a href="Menu.md">Return</a>
+    </h3>
   </body>
 </html>
