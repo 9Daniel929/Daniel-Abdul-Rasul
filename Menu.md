@@ -9,6 +9,9 @@
         <a href="Modes.md">Modes</a>
       </p>
       <p>
+        <a href="Settings.md">Settings</a>
+      </p>
+      <p>
         <a href="Intro.md">How to Play</a>
       </p>
     </h3>
