@@ -15,6 +15,11 @@
       <p>
         Aaraav's Job:
       </p>
+      <p>
+        <img src="https://cdn-useast1.kapwing.com/static/templates/crying-cat-meme-template-full-719a53dc.webp" width=200 height=100>
+      </p>
+      <p>Be our tester.</p>
+      <p>Ian's Job (Me): Create the settings and menu.</p>
     </h3>
   </body>
 </html>
