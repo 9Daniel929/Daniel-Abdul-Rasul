@@ -16,7 +16,9 @@
         </a>
       </p>
       <p>
-        <a href="Intro.md">How to Play</a>
+        <a href="Intro.md">
+          <img src="https://pouch.jumpshare.com/preview/yS9mIQjR5ngNxTlzypxdFlpAPTrubSrPEVe7BJTH7J8M0wtztsjHGKEif2mjl_P7nz81bMEnBn-1PJa846HeIvhtxEvuhFMPrZhcvU7fhxc" width=150 height=150>
+        </a>
       </p>
     </h3>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/250px-Bataille_de_Verdun_1916.jpg"></a>
