@@ -1,9 +1,9 @@
 <html>
   <head>
+    <div style+"background-color: #4B5320
     <title>DoomsDay - Menu</title>
   </head>
   <body>
-    <div style+"background-color: #4B5320
     <h1>
       <img src="https://pouch.jumpshare.com/preview/A-VxHChj0FmXbFf1liXEOn2M08uuzigGJVbovve8faS0ykqXXPBcX1MY9Etcx8U7MuTJtxI87erVB31UylKoENOY8ekGC8m6ZwFdN7YW7Vo" width= 400 height=150>
     </h1>
